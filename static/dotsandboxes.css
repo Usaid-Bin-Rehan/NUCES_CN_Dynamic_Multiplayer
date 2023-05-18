@@ -1,0 +1,26 @@
+.footer {
+  color: #fff; /* white text color */
+  margin-bottom: 1ex;
+  background: linear-gradient(to right, #ff0000, #ff7700, #ffa500, #ffd200, #ffff00, #00ff00, #00ffff, #0000ff, #800080); /* radiant multicoloured background */
+}
+
+.footer a {
+  color: #fff; /* white link color */
+  text-decoration: underline;
+}
+
+
+html, body {
+  height: 100%;
+}
+
+body {
+	background: purple;
+	height: 100%;
+	width:100%;
+  }
+ 
+.container {
+	max-width: 100%;
+	max-height: 100%;
+}
