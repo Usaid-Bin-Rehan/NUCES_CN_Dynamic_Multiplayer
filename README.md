@@ -1,6 +1,6 @@
 Dots and Boxes application
 ==========================
-This is a simple implementation of the Dots and Boxes game using Javascript Python.
+This is a simple implementation of the Dots and Boxes game using Javascript & Python. PoC open to contributions.
 
 Overview
 ------------------
