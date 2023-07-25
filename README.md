@@ -54,6 +54,3 @@ This is the program that runs a game-playing clients
 Starting the agent client is done using the following command:
 
     $ ./client <ip host> <port>
-
-Credits
-This implementation was created by Muhammad Umer Wasi. The original Dots and Boxes game was invented by Édouard Lucas in the late 19th century.
